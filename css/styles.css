@@ -1,0 +1,45 @@
+body {
+    font-family: "Helvetica", sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+ul {
+    display: flex;
+}
+
+nav {
+  /* float: right; */
+}
+
+li {
+    padding: 0 16px;   
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img.logo {
+    width: 17rem;
+}
+
+main {
+    background-color: #e0e0e0;
+    padding: 2rem;
+}
+
+
+.food {
+    heigth: 20rem;
+    width: 4rem;
+}
